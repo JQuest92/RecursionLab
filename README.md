@@ -1,2 +1,2 @@
 # RecursionLab
-Sample solutions using recursive alogirthms 
+Sample solutions to a maze, permutations, etc using recursive alogirthms 
